@@ -1,0 +1,14 @@
+fixture.scalar	75b6359f
+fixture.empty	d5dc257f
+fixture.tagged	4a3b2c1d
+fixture.zero	00000000
+fixture.choiceNone	4fcbdd00
+fixture.choiceSome	6f4c7f40
+fixture.grid	6ae3429e
+fixture.options	69aaa9eb
+fixture.pairs	ad72a367
+fixture.anonymous	535d14d8
+fixture.template	d5444170
+fixture.fetch	a8433ff1
+fixture.invoke	d3a0b113
+fixture.late	65be6641
